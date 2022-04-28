@@ -1,0 +1,15 @@
+body{
+    color: #f00;
+    background-color: beige;
+}
+h1{
+    background-color: azure;
+    color: rgb(87, 81, 166);
+    font-size: 100pt;
+    font-family: 'DotGothic16', sans-serif;
+}
+p{
+    background-color: aqua;
+    font-family: 'DotGothic16', sans-serif;
+}
+.span1{color: blueviolet;}
